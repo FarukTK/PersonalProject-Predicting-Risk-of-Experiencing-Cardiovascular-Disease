@@ -7,3 +7,9 @@
 •   This project also involved using the two newly developed sparse regression models to rank each of the 13 predictors and find the most important factors in determining the likelihood that a patient experiences cardiovascular disease.
 
 •   For this project, medical data for 1024 patients (each with 13 predictors and 1 outcome) was processed to create a clean dataset that was used to train both sparse regression models and K Fold Cross Validation was applied using this clean training dataset to optimize both models.
+
+## Project Files
+
+•   The main project report is in the file: 'Final Project - Predicting Risk of Experiencing Cardiovascular Disease and Ranking Predictive Risk Factors.pdf'.
+
+•   The main project code is contained in the file: 'COGS 109 Final Project.ipynb'. The previously named jupyter notebook files using the following two dataset to run the code: 1. 'healthcare-dataset-stroke-data.csv' and 2. 'heart.csv'
